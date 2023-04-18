@@ -6,7 +6,7 @@
 </div>  
 <div align="center">  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljyunxin&layout=compact&theme=react&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljyunxin&layout=compact&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ljyunxin&count_private=true&theme=react)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LJyunxin&theme=react)
