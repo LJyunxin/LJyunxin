@@ -4,7 +4,7 @@
   <div>  
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljyunxin&count_private=true&theme=react&hide=stars)
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halalala222&layout=compact&theme=react)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ljyunxin&layout=compact&theme=react)
   </div>
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LJyunxin&theme=react)
